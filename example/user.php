@@ -5,8 +5,8 @@ require __DIR__ . "/../vendor/autoload.php";
 use LipeFreitas\CafeApi\Me;
 
 $me = new Me(
-    "localhost/fsphp/cafeapi/",
-    "seuemail@gmail.com",
+    "localhost/upinside/fsphp/cafeapi/",
+    "lipofreitas@yahoo.com.br",
     "12345678"
 );
 
